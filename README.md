@@ -2,7 +2,8 @@
 # 🎯Objetivo:
  
 Analizar la rentabilidad de las estrategias de marketing de una empresa dedicada a la venta de boletos para eventos en línea, mediante el estudio de métricas clave de negocio como el costo de adquisición de clientes (CAC), el retorno de la inversión en marketing (ROMI) y el valor del tiempo de vida del cliente (LTV), con el fin de identificar los canales publicitarios más eficientes.
-Preguntas clave
+
+# Preguntas clave
 - ¿Cuál es el ingreso promedio que una empresa obtiene por sus clientes? (LTV)
 - ¿Cuál es el costo de adquisición de clientes por cada una de las publicidades? (CAC)
 - ¿Cuál fue la rentabilidad de las campañas publicitaria para la empresa? (ROMI)
