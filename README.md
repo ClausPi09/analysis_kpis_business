@@ -34,9 +34,9 @@ Analizar la rentabilidad de las estrategias de marketing de una empresa dedicada
 ---
 # 📊Conclusiones:
 
-*El Lifetime Value (LTV) es de $6 dólares, esto significa que cada cliente le genera a la empresa en promedio $6 dólares.
-*Para obtener nuevos clientes la empresa realizo siete campañas publicitarias, del cual el promedio el Costo de Adquisición de cada Cliente (CAC) por publicidad fue de $8 dólares
-*El análisis del Return on Marketing Investment (ROMI) muestra que la rentabilidad de las campañas fue desigual entre las diferentes fuentes de publicidad. La publicidad 1 obtuvo el mejor desempeño, con un ROMI aproximado de 0.50, lo que significa que por cada dólar invertido se generaron $0.50 adicionales de beneficio. La publicidad 3 fue la menos eficiente con aproximadamente -0.61, indicando una pérdida de $0.61 por cada dólar invertido. En general, las campañas publicitarias no tuvieron un desempeño homogéneo. La mayor parte del valor generado provino de la publicidad 1, mientras que algunas fuentes produjeron pérdidas, especialmente la publicidad 3.
+* El Lifetime Value (LTV) es de $6 dólares, esto significa que cada cliente le genera a la empresa en promedio $6 dólares.
+* Para obtener nuevos clientes la empresa realizo siete campañas publicitarias, del cual el promedio el Costo de Adquisición de cada Cliente (CAC) por publicidad fue de $8 dólares
+* El análisis del Return on Marketing Investment (ROMI) muestra que la rentabilidad de las campañas fue desigual entre las diferentes fuentes de publicidad. La publicidad 1 obtuvo el mejor desempeño, con un ROMI aproximado de 0.50, lo que significa que por cada dólar invertido se generaron $0.50 adicionales de beneficio. La publicidad 3 fue la menos eficiente con aproximadamente -0.61, indicando una pérdida de $0.61 por cada dólar invertido. En general, las campañas publicitarias no tuvieron un desempeño homogéneo. La mayor parte del valor generado provino de la publicidad 1, mientras que algunas fuentes produjeron pérdidas, especialmente la publicidad 3.
 
 
 <img width="1" height="1" alt="image" src="https://github.com/user-attachments/assets/ff502aab-3b19-4997-8c27-b010954ae2f8" />
